@@ -1,5 +1,8 @@
+% % there are a lot of "not really pretty" names of files and other things like that, sorry for that in advance
+% % no time to pretty all those stuffs
 % % this is just test model for kinematics and visualization
 % % use .stl files and functions from folder to run this
+% % press Add to Path "Selected folders and Subfolders" for all folders you download
 
 % % interpolation made with help of Dr. Murtaza Khan work
 % % Author Reference : http://www.linkedin.com/pub/dr-murtaza-khan/19/680/3b3
